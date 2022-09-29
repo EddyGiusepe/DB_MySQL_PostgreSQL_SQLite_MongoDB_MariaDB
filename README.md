@@ -68,6 +68,8 @@ Links de estudo:
 
 * [MongoDB](https://www.mongodb.com/)
 
+* [The guide to choosing the right database for my project: MongoDB vs. MySQL](https://towardsdatascience.com/the-guide-to-choosing-the-right-database-for-my-project-mongodb-vs-mysql-256e270d29b8)
+
 
 
 
