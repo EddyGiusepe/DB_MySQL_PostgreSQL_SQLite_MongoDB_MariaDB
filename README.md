@@ -38,28 +38,35 @@ Aqui, o banco de dados está armazenado em diferentes locais, seja fisicamente o
 Este banco de dados analítico é projetado para um grande número de transações realizados por vários usuários ao mesmo tempo. Imagine que quando você acessa o site das Lojas Americanas na sexta-feira de Black Friday e outros usuários também o acessam ao mesmo tempo, as informações que aparecem na tela (como o preço, nome e descrição do produto) estão em um banco de dados `OLTP`.
 
 
+![image](https://user-images.githubusercontent.com/69597971/192929199-03ac1f6d-03c3-42c2-8642-2f400b63c5e0.png)
 
 
 
+![image](https://user-images.githubusercontent.com/69597971/192928500-c80db86e-b98f-41d5-9284-86f36746573b.png)
 
 
 
+![image](https://user-images.githubusercontent.com/69597971/192928805-5a607650-90d0-4920-bd42-ab0b3d6ebd8e.png)
 
 
 
+![image](https://user-images.githubusercontent.com/69597971/192928970-37230047-5e31-4dcd-8397-90c46cf1b6c3.png)
 
 
 
+![image](https://user-images.githubusercontent.com/69597971/192929129-0a0d7315-c4f5-4cfc-920f-0a4104e59f54.png)
 
 
 
+Links de estudo:
 
+* [Bancos de Dados: Bóson Treinamentos](https://www.youtube.com/watch?v=0TVV_jO5OUs)
 
+* [Oracle](https://www.oracle.com/database/what-is-database/)
 
+* [Banco de Dados](https://medium.com/sysadminas/banco-de-dados-af36571670ee#:~:text=Um%20banco%20de%20dados%20%C3%A9%20um%20conjunto%20de%20informa%C3%A7%C3%B5es%20juntamente,de%20dados%20de%20uma%20organiza%C3%A7%C3%A3o.)
 
-
-
-
+* [MongoDB](https://www.mongodb.com/)
 
 
 
